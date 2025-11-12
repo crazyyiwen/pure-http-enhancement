@@ -2,7 +2,7 @@
 
 <p align='center'>Bring the middleware and router to native http.</p>
 
-<p align='center'>
+<p align='center'> 
   <a href='https://depfu.com/github/htdangkhoa/pure-http?project_id=17737'>
     <img src='https://badges.depfu.com/badges/22cfff5ebd5901cb72e115e69767cad5/count.svg' alt='depfu' />
   </a>
